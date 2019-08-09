@@ -1,0 +1,102 @@
+{
+  "food": [{
+    "value" : "faskFood",
+    "label" : "快餐便当",
+    "children" : [
+      {
+        "value" : "otherFood",
+        "label" : "其他快餐"
+      },{
+        "value" : "riceFlour",
+        "label" : "米粉米线"
+      },{
+        "value" : "rice",
+        "label" : "盖浇饭"
+      },{
+        "value" : "spicyHotPot",
+        "label" : "麻辣烫"
+      }
+    ]
+  },{
+    "value" : "specialCuisine",
+    "label" : "特色菜系",
+    "children" : [
+      {
+        "value" : "SCCuisine",
+        "label" : "川湘菜"
+      },{
+        "value" : "GZCuisine",
+        "label" : "粤菜"
+      },{
+        "value" : "seafood",
+        "label" : "海鲜"
+      },{
+        "value" : "otherFood2",
+        "label" : "其他菜系"
+      }
+    ]
+  },{
+    "value" : "foreignCuisine",
+    "label" : "异国料理",
+    "children" : [
+      {
+        "value" : "WesternStyle",
+        "label" : "其他西餐"
+      },{
+        "value" : "salad",
+        "label" : "沙拉"
+      },{
+        "value" : "JapaneseCuisine",
+        "label" : "日式料理"
+      },{
+        "value" : "friedChicken",
+        "label" : "韩国炸鸡"
+      },{
+        "value" : "simpleMeal",
+        "label" : "韩式简餐"
+      },{
+        "value" : "beefsteak",
+        "label" : "牛排"
+      }
+    ]
+  },{
+    "value" : "snacks",
+    "label" : "小吃宵夜",
+    "children" : [
+      {
+        "value" : "barbecue",
+        "label" : "烧烤"
+      },{
+        "value" : "cray",
+        "label" : "小龙虾"
+      },{
+        "value" : "clam",
+        "label" : "花甲"
+      },{
+        "value" : "OctopusBalls",
+        "label" : "章鱼小丸子"
+      },{
+        "value" : "luzhu",
+        "label" : "卤煮火烧"
+      }
+    ]
+  },{
+    "value" : "dessert",
+    "label" : "甜品饮品",
+    "children" : [
+      {
+        "value" : "cake",
+        "label" : "面包蛋糕"
+      },{
+        "value" : "fruitJuice",
+        "label" : "奶茶果汁"
+      },{
+        "value" : "sweetmeats",
+        "label" : "甜品"
+      },{
+        "value" : "coffee",
+        "label" : "咖啡"
+      }
+    ]
+  }]
+}

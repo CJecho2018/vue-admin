@@ -1,0 +1,28 @@
+module.exports = [
+  {
+    icon:"el-icon-house",
+    index:"manage",
+    title:"系统首页"
+  },{
+    icon:"el-icon-s-grid",
+    index:"manageList",
+    title:"数据管理",
+    "subs":[
+      {
+        index:"userList",
+        title:"用户列表"
+      },{
+        index:"shopList",
+        title:"服装列表"
+      }
+    ]
+  },{
+    icon:"el-icon-star-on",
+    index:"echarts",
+    "title":"echarts图表"
+  },{
+    icon:"el-icon-warning-outline",
+    index:"error",
+    title:"报错处理"
+  }
+]
